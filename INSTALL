@@ -1,0 +1,9 @@
+Building Pesacoin
+
+See doc/readme-qt.rst for instructions on building Pesacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Pesacoin.
+
+See doc/build-*.txt for instructions on building pesacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Pesacoin.
