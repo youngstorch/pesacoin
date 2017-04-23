@@ -73,3 +73,4 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     ./pesacoin-qt_test
 
 # pesacoin
+# PesaCoin---Release
